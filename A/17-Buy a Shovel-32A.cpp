@@ -5,16 +5,11 @@ using namespace std;
 
 int main(void)
 {
-    int k, r;
-    cin >> k >> r;
+    int k, r; cin >> k >> r;
+    int i = 1;
 
-    for (int i = 1; i <= 10; i++) {
-        int total = i * k;
-        if (total % 10 == 0 || total % 10 == r) {
-            cout << i << endl;
-            break;
-        }
-    }
-
+    while((i * k) % 10 != 0 && (i * k) % 10 != r)
+        i++;
+    cout << i << endl;
     return 0;
 }
