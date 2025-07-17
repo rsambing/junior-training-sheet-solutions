@@ -17,4 +17,5 @@ int main(void)
     }
     for(size_t i = 0; i < a.size(); i++) ans += mp[a[i]];
     cout << ans << endl;
+    return (0);
 }
