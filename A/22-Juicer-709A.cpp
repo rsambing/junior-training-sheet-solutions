@@ -15,7 +15,7 @@ int main(void)
         if (x <= b)
         {
             sum += x;
-            if (sum > b)
+            if (sum > d)
             {
                 sum = 0;
                 ans++;
