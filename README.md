@@ -8,7 +8,7 @@ The sheet is designed to help beginners in competitive programming improve their
 
 ## 📂 Structure
 
-Each folder in this repository corresponds to a section in sheet (ex: A, B, C1, C2, etc).
+Each folder in this repository corresponds to a section in sheet (ex: A, B, C1, C2, EXTRA, etc).
 Each file contains a solution to a specific problem, with the problem name and link included as comments in the code.
 
 ## 🚀 Goal
