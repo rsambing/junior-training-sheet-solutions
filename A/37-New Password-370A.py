@@ -1,3 +1,5 @@
+# http://codeforces.com/contest/474/problem/A
+
 arr = list(map(int, input().split()))
 n = arr[0]
 k = arr[1]
