@@ -1,4 +1,4 @@
-# http://codeforces.com/contest/474/problem/A
+# https://codeforces.com/contest/770/problem/A
 
 arr = list(map(int, input().split()))
 n = arr[0]
